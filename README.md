@@ -36,5 +36,5 @@ Repository ini berisi implementasi dari reinforcement learning terhadap suatu su
 ```
 
 ## Reinforcement Learning (Bagian 4)
-- [v] Q-LEARNING
-- [v] SARSA
+- [x] Q-LEARNING
+- [x] SARSA
